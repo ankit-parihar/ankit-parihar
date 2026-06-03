@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Ankit Singh Parihar</h1>
 <h3 align="center">B.Tech CSE Student | Front-End Developer | Problem Solver</h3>
 
 <p align="center">
@@ -36,6 +36,7 @@
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
@@ -47,10 +48,13 @@
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
+
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
@@ -64,14 +68,13 @@
 ### 🌐 Portfolio Website
 Modern personal portfolio showcasing projects and skills.
 
-### 🛒 E-Commerce Frontend
-Responsive shopping website with modern UI.
+### 🛒 Room Booking website (https://bookmyroom.free.nf)
+Responsive room booking website with modern UI.
 
-### 📋 Task Management App
-CRUD-based task manager using JavaScript and Local Storage.
-
-### ☁️ Weather App
-Weather forecast application using public APIs.
+### 📋 Exam Preparation site (https://smartexamprep.gt.tc/)
+Website to prepare for competition exams by real time practices and analysis.
+### ☁️ Figma to code(Agency landing page) (https://react-web-five-drab.vercel.app/)
+React frontend page for understanding react more.
 
 ---
 
@@ -99,7 +102,6 @@ Weather forecast application using public APIs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](YOUR_PORTFOLIO_URL)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
 
