@@ -72,12 +72,12 @@
 ### 🌐 Portfolio Website
 Modern personal portfolio showcasing projects and skills.
 
-### 🛒 Room Booking website (https://bookmyroom.free.nf)
+### 🏠 Room Booking website (https://bookmyroom.free.nf)
 Responsive room booking website with modern UI.
 
 ### 📋 Exam Preparation site (https://smartexamprep.gt.tc/)
 Website to prepare for competition exams by real time practices and analysis.
-### ☁️ Figma to code(Agency landing page) (https://react-web-five-drab.vercel.app/)
+### ⚛️ Figma to code(Agency landing page) (https://react-web-five-drab.vercel.app/)
 React frontend page for understanding react more.
 
 ---
