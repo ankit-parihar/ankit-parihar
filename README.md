@@ -1,12 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:ee0979,50:ff6a00,100:ffb347&height=180&text=Ankit%20Singh%20Parihar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45&desc=B.Tech%20CSE%20%7C%20Front-End%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,50:ff6a00,100:ffb347&height=220&section=header&text=Ankit%20Singh%20Parihar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Front-End%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-parihar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitparihar8923@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://react-web-five-drab.vercel.app)
 
 </div>
 
@@ -76,17 +75,13 @@
 | 🏠 **Room Booking Website** | Responsive room booking site with modern UI | [🔗 Live](https://bookmyroom.free.nf) |
 | 📋 **Exam Preparation Site** | Real-time practice & analysis for competitive exams | [🔗 Live](https://smartexamprep.gt.tc/) |
 | ⚛️ **Agency Landing Page** | Figma to React — pixel-perfect frontend | [🔗 Live](https://react-web-five-drab.vercel.app/) |
-| 🌐 **Portfolio Website** | Modern personal portfolio showcasing projects & skills | Coming Soon |
+| 🌐 **Portfolio Website** | Modern personal portfolio showcasing projects & skills | Soon.... |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-parihar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-parihar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ankit-parihar&theme=tokyonight&hide_border=true&background=0d1117)
 
@@ -110,6 +105,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:ffb347,50:ff6a00,100:ee0979&height=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffb347,50:ff6a00,100:ee0979&height=120&section=footer)
 
 </div>
