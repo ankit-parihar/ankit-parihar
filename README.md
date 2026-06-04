@@ -106,6 +106,6 @@
 
 â­ *"Code. Learn. Build. Repeat."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffb347,50:ff6a00,100:ee0979&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffb347,50:ff6a00,100:ee0979&height=120&section=footer&width=1000)
 
 </div>
