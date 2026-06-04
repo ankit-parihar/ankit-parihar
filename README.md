@@ -75,7 +75,7 @@
 | 🏠 **Room Booking Website** | Responsive room booking site with modern UI | [🔗 Live](https://bookmyroom.free.nf) |
 | 📋 **Exam Preparation Site** | Real-time practice & analysis for competitive exams | [🔗 Live](https://smartexamprep.gt.tc/) |
 | ⚛️ **Agency Landing Page** | Figma to React — pixel-perfect frontend | [🔗 Live](https://react-web-five-drab.vercel.app/) |
-| 🌐 **Portfolio Website** | Modern personal portfolio showcasing projects & skills | Soon.... |
+| 🌐 **Portfolio Website** | Modern personal portfolio showcasing projects & skills | [🔗 Live](https://portfolio-new-sigma-seven-18.vercel.app/)|
 
 ---
 
