@@ -1,104 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ankit Singh Parihar</h1>
-<h3 align="center">B.Tech CSE Student | Front-End Developer | Problem Solver</h3>
-
-<p align="center">
-  Passionate about building modern web applications and continuously learning new technologies.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Front-End & Full-Stack Development
-- 🔍 Exploring **System Design, Docker, and Cloud Technologies**
-- ⚡ Strong believer in learning by building real-world projects
-- 🎯 Goal: Become a skilled Software Development Engineer
-
----
-
-## 🌱 Currently Learning
-
-- React.js
-- Next.js
-- TypeScript
-- Node.js & Express.js
-- MongoDB
-- Docker
-- Git & GitHub
-- Data Structures & Algorithms (Java)
-- AWS Cloud Fundamentals
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp)
+# 💫 About Me:
+Hi, I'm Ankit Singh Parihar......<br>a Computer Science student and aspiring full-stack developer. I enjoy building web applications using HTML, CSS, JavaScript, and modern frameworks. I’m currently learning backend development and improving my problem-solving skills through DSA and projects. I love turning ideas into real, functional projects and continuously exploring new technologies.
 
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitparihar8923@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ankit-parihar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ankit-parihar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankit-parihar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankit-parihar&theme=flag-india&no-frame=false&no-bg=false&margin-w=4)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 📌 Featured Projects
-
-### 🌐 Portfolio Website
-Modern personal portfolio showcasing projects and skills.
-
-### 🏠 Room Booking website (https://bookmyroom.free.nf)
-Responsive room booking website with modern UI.
-
-### 📋 Exam Preparation site (https://smartexamprep.gt.tc/)
-Website to prepare for competition exams by real time practices and analysis.
-### ⚛️ Figma to code(Agency landing page) (https://react-web-five-drab.vercel.app/)
-React frontend page for understanding react more.
-
----
-
-## 🏆 Goals for 2026
-
-- Build 10+ production-ready projects
-- Master React & Next.js
-- Learn Cloud Computing (AWS)
-- Contribute to Open Source
-- Secure a Software Development Role
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-
-
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
-
----
-
-⭐ *"Code. Learn. Build. Repeat."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
