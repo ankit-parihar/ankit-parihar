@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,50:ff6a00,100:ffb347&height=220&section=header&text=Ankit%20Singh%20Parihar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Front-End%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,50:ff6a00,100:ffb347&height=220&section=header&text=Ankit%20Singh%20Parihar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Front-End%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&width=1000)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-parihar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitparihar8923@gmail.com)
