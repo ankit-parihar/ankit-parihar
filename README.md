@@ -97,7 +97,7 @@ React frontend page for understanding react more.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
 
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto: ankitparihar8923@gmail.com)
 
 ---
 
