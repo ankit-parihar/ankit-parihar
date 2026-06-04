@@ -12,17 +12,17 @@
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
-- ðŸŽ“ B.Tech in Computer Science & Engineering
-- ðŸ’» Interested in Front-End & Full-Stack Development
-- ðŸ” Exploring **System Design, Docker, and Cloud Technologies**
-- âš¡ Strong believer in learning by building real-world projects
-- ðŸŽ¯ Goal: Become a skilled Software Development Engineer
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Interested in Front-End & Full-Stack Development
+- 🔍 Exploring **System Design, Docker, and Cloud Technologies**
+- ⚡ Strong believer in learning by building real-world projects
+- 🎯 Goal: Become a skilled Software Development Engineer
 
 ---
 
-## ðŸŒ± Currently Learning
+## 🌱 Currently Learning
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -69,18 +69,18 @@
 
 ---
 
-## ðŸ“Œ Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Link |
 |---|---|---|
-| ðŸ  **Room Booking Website** | Responsive room booking site with modern UI | [ðŸ”— Live](https://bookmyroom.free.nf) |
-| ðŸ“‹ **Exam Preparation Site** | Real-time practice & analysis for competitive exams | [ðŸ”— Live](https://smartexamprep.gt.tc/) |
-| âš›ï¸ **Agency Landing Page** | Figma to React â€” pixel-perfect frontend | [ðŸ”— Live](https://react-web-five-drab.vercel.app/) |
-| ðŸŒ **Portfolio Website** | Modern personal portfolio showcasing projects & skills | Coming Soon |
+| 🏠 **Room Booking Website** | Responsive room booking site with modern UI | [🔗 Live](https://bookmyroom.free.nf) |
+| 📋 **Exam Preparation Site** | Real-time practice & analysis for competitive exams | [🔗 Live](https://smartexamprep.gt.tc/) |
+| ⚛️ **Agency Landing Page** | Figma to React — pixel-perfect frontend | [🔗 Live](https://react-web-five-drab.vercel.app/) |
+| 🌐 **Portfolio Website** | Modern personal portfolio showcasing projects & skills | Coming Soon |
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 ---
 
-## ðŸ† Goals for 2026
+## 🏆 Goals for 2026
 
 - [ ] Build 10+ production-ready projects
 - [ ] Master React & Next.js
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-â­ *"Code. Learn. Build. Repeat."*
+⭐ *"Code. Learn. Build. Repeat."*
 
 <br/>
 
